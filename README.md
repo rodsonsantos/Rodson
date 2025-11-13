@@ -6,14 +6,15 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD11B?style=for-the-badge&logo=Hugging%20Face&logoColor=black" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </div>
 
-Estou em fase intensiva de estudos em **Database Administration (DBA)**, com foco específico em **MySQL**, buscando garantir a **integridade**, **segurança** e **performance** dos sistemas de dados.
 
-Meu objetivo é me tornar um(a) **Administrador(a) de Banco de Dados Júnior (DBA Júnior)**.
+Estou em fase intensiva de estudos em **Database Administration (DBA)**, buscando garantir a **integridade**, **segurança** e **performance** dos sistemas de dados.
+
+Meu objetivo INICIALMENTE me tornar um(a) **Administrador(a) de Banco de Dados Júnior (DBA Júnior)**.
 
 ---
 
@@ -35,13 +36,6 @@ Aqui estão as tecnologias e conceitos que estou explorando e praticando neste m
 
 Minhas habilidades complementares me auxiliam na documentação e comunicação técnica:
 
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD11B?style=for-the-badge&logo=Hugging%20Face&logoColor=black" />
-</div>
-
 * **Design Gráfico (Hobby):** Conhecimento básico em **Illustrator**, **Photoshop** e **Canva**
 * **Produtividade:** Pacote **Microsoft Office** em nível avançado (**Excel** e **PowerPoint** para documentação e relatórios técnicos).
 
@@ -51,7 +45,7 @@ Minhas habilidades complementares me auxiliam na documentação e comunicação 
 
 Estou sempre aberto(a) a novas conexões, projetos e oportunidades de aprendizado!
 
-* **LinkedIn:** [Seu Link do LinkedIn](https://www.linkedin.com/in/rodsonsantos/)
+* **LinkedIn:** [https://www.linkedin.com/in/rodsonsantos/]
 * **Email:** [rodsondossantos@hotmail.com]
 
 ---
