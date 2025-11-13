@@ -34,20 +34,24 @@ Aqui estão as tecnologias e conceitos que estou explorando e praticando neste m
 
 Minhas habilidades complementares me auxiliam na documentação e comunicação técnica:
 
+## 💡 Habilidades Complementares
+
+Minhas habilidades complementares me auxiliam na documentação e comunicação técnica:
+
 * **Design Gráfico (Hobby):** Conhecimento básico em **Illustrator**, **Photoshop** e **Canva**.
 
   <br>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
 
 * **Produtividade:** Pacote **Microsoft Office** em nível avançado, com foco em documentação e gestão de dados:
 
   <br>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 ---
 
 ## 🌐 Conecte-se Comigo!
