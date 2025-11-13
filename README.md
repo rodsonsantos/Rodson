@@ -51,6 +51,7 @@ Aqui estão as tecnologias e conceitos que estou explorando e praticando neste m
   <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 <div>
+
 ---
 
 ## 🌐 Conecte-se Comigo!
