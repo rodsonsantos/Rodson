@@ -2,7 +2,7 @@
 
 ### 💾 Foco em Database Administration (DBA) & MySQL | 🎨 Habilidades Criativas
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -30,13 +30,10 @@ Aqui estão as tecnologias e conceitos que estou explorando e praticando neste m
 | **Ferramentas Essenciais** | Git, GitHub, VS Code |
 
 ---
-## 💡 Habilidades Complementares
-
-Minhas habilidades complementares me auxiliam na documentação e comunicação técnica:
 
 ## 💡 Habilidades Complementares
 
-Minhas habilidades complementares me auxiliam na documentação e comunicação técnica:
+*Minhas habilidades complementares fortalecem a documentação, visualização e comunicação técnica dos projetos de database:*
 
 * **Design Gráfico (Hobby):** Conhecimento básico em **Illustrator**, **Photoshop** e **Canva**.
   <br>
@@ -45,6 +42,7 @@ Minhas habilidades complementares me auxiliam na documentação e comunicação 
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
 
 * **Produtividade:** Pacote **Microsoft Office** em nível avançado, com foco em documentação e gestão de dados:
+
   <br>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
