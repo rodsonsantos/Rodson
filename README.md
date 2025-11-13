@@ -36,9 +36,15 @@ Aqui estão as tecnologias e conceitos que estou explorando e praticando neste m
 
 Minhas habilidades complementares me auxiliam na documentação e comunicação técnica:
 
-* **Design Gráfico (Hobby):** Conhecimento básico em **Illustrator**, **Photoshop** e **Canva**
-* **Produtividade:** Pacote **Microsoft Office** em nível avançado (**Excel** e **PowerPoint** para documentação e relatórios técnicos).
+* **Ferramentas de BI:** Power BI (Para construção e comunicação de dashboards de status do BD).
 
+* **Design Gráfico (Hobby):** Conhecimento básico em **Illustrator**, **Photoshop** e **Canva**.
+    * <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" />
+    * <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white" />
+    * <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white" />
+
+* **Produtividade:** Pacote **Microsoft 365** (Office) em nível avançado, com foco em Excel e PowerPoint.
+    * <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=flat&logo=microsoft-365&logoColor=white" />
 ---
 
 ## 🌐 Conecte-se Comigo!
