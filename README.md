@@ -1,4 +1,4 @@
-# Olá a todos! Eu sou [Seu Nome Aqui] 👋
+# Olá a todos! Eu sou [Rodson dos Santos] 👋
 
 ### 💾 Foco em Database Administration (DBA) & MySQL | 🎨 Habilidades Criativas
 
@@ -6,8 +6,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD11B?style=for-the-badge&logo=Hugging%20Face&logoColor=black" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </div>
 
 Estou em fase intensiva de estudos em **Database Administration (DBA)**, com foco específico em **MySQL**, buscando garantir a **integridade**, **segurança** e **performance** dos sistemas de dados.
@@ -22,8 +23,7 @@ Aqui estão as tecnologias e conceitos que estou explorando e praticando neste m
 
 | Categoria | Tópicos e Ferramentas |
 | :--- | :--- |
-| **Foco Principal (SGBD)** | **MySQL** (Modelagem, Otimização de Consultas, Stored Procedures, Tuning) |
-| **Administração** | Backup & Recovery, Segurança, Monitoramento, Gerenciamento de Usuários |
+| **Sistema Gerenciador de Banco de Dados (SGBD)** | **MySQL** (Modelagem e Otimização de Consultas) |
 | **Automação/Scripts** | **Python** (Para scripts de rotinas e manutenção do banco de dados) |
 | **Análise de Performance** | **Pandas, NumPy** (Análise e processamento de logs e métricas de desempenho) |
 | **Plataformas de Dados** | **Databricks** (Explorando o processamento e gestão de dados em larga escala) |
@@ -31,20 +31,31 @@ Aqui estão as tecnologias e conceitos que estou explorando e praticando neste m
 | **Ferramentas Essenciais** | Git, GitHub, VS Code |
 
 ---
----
-*(As seções de Habilidades Complementares e Contatos permanecem as mesmas.)*
+## 💡 Habilidades Complementares
 
----
+Minhas habilidades complementares me auxiliam na documentação e comunicação técnica:
 
-## 🌟 Bônus: Badge (Ícone) Atualizado
-
-Eu também atualizei o bloco de ícones para trocar o ícone genérico de SQL pelo ícone específico do **MySQL**:
-
-```markdown
 <div align="center">
-  <img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" />
-  <img src="[https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Hugging%20Face-FFD11B?style=for-the-badge&logo=Hugging%20Face&logoColor=black](https://img.shields.io/badge/Hugging%20Face-FFD11B?style=for-the-badge&logo=Hugging%20Face&logoColor=black)" />
-  <img src="[https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD11B?style=for-the-badge&logo=Hugging%20Face&logoColor=black" />
 </div>
+
+* **Design Gráfico (Hobby):** Conhecimento básico em **Illustrator**, **Photoshop** e **Canva**
+* **Produtividade:** Pacote **Microsoft Office** em nível avançado (**Excel** e **PowerPoint** para documentação e relatórios técnicos).
+
+---
+
+## 🌐 Conecte-se Comigo!
+
+Estou sempre aberto(a) a novas conexões, projetos e oportunidades de aprendizado!
+
+* **LinkedIn:** [Seu Link do LinkedIn](https://www.linkedin.com/in/rodsonsantos/)
+* **Email:** [rodsondossantos@hotmail.com]
+
+---
+> "A combinação de dados, lógica e criatividade é a chave para o futuro."
+
+Fique à vontade para acompanhar meus repositórios. Meus projetos refletem o que estou estudando no momento.
+
