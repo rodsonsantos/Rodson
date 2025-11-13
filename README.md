@@ -1,4 +1,4 @@
-# Olá, Mudo! Eu sou Rodson dos Santos 👋
+# Olá, Mundo! Eu sou Rodson dos Santos 👋
 
 ### 💾 Foco em Database Administration (DBA) & MySQL | 🎨 Habilidades Criativas
 
