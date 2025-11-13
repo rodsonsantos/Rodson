@@ -39,14 +39,12 @@ Minhas habilidades complementares me auxiliam na documentação e comunicação 
 Minhas habilidades complementares me auxiliam na documentação e comunicação técnica:
 
 * **Design Gráfico (Hobby):** Conhecimento básico em **Illustrator**, **Photoshop** e **Canva**.
-
   <br>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
 
 * **Produtividade:** Pacote **Microsoft Office** em nível avançado, com foco em documentação e gestão de dados:
-
   <br>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
