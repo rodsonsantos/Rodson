@@ -1,4 +1,4 @@
-# Olá a todos! Eu sou [Rodson dos Santos] 👋
+# Olá, Mudo! Eu sou Rodson dos Santos 👋
 
 ### 💾 Foco em Database Administration (DBA) & MySQL | 🎨 Habilidades Criativas
 
@@ -12,7 +12,7 @@
 
 Estou em fase intensiva de estudos em **Database Administration (DBA)**, buscando garantir a **integridade**, **segurança** e **performance** dos sistemas de dados.
 
-Meu objetivo INICIALMENTE me tornar um(a) **Administrador(a) de Banco de Dados Júnior (DBA Júnior)**.
+Meu objetivo INICIALMENTE é me tornar um(a) **Administrador(a) de Banco de Dados Júnior (DBA Júnior)**.
 
 ---
 
@@ -36,13 +36,18 @@ Minhas habilidades complementares me auxiliam na documentação e comunicação 
 
 * **Ferramentas de BI:** Power BI (Para construção e comunicação de dashboards de status do BD).
 
-* **Design Gráfico (Hobby):** Conhecimento básico em **Illustrator**, **Photoshop** e **Canva**.
-    * <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" />
-    * <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white" />
-    * <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white" />
+** **Design Gráfico (Hobby):** Conhecimento básico em **Illustrator**, **Photoshop** e **Canva**.
+  <br>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white" />
 
-* **Produtividade:** Pacote **Microsoft 365** (Office) em nível avançado, com foco em Excel e PowerPoint.
-    * <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=flat&logo=microsoft-365&logoColor=white" />
+* **Produtividade:** Pacote **Microsoft Office** em nível avançado, com foco em documentação e gestão de dados:
+  <br>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white" />
 ---
 
 ## 🌐 Conecte-se Comigo!
