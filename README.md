@@ -68,7 +68,7 @@ Fique à vontade para acompanhar meus repositórios. Meus projetos refletem o qu
 
 ---
 
-### 🎧 Minha Playlist Favorita  
+### 🎧 Minha playlist enquanto programo
 Porque ninguém é só código 😄  
 
 <a href="https://open.spotify.com/playlist/7d44aKU7v8FUvhHfGhYZgY">
