@@ -54,12 +54,31 @@ Aqui estão as tecnologias e conceitos que estou explorando e praticando neste m
 
 ---
 
-## 🌐 Conecte-se Comigo!
+---
 
+### 🌐 Conecte-se Comigo!
 Estou sempre aberto(a) a novas conexões, projetos e oportunidades de aprendizado!
 
-* **LinkedIn:** [https://www.linkedin.com/in/rodsonsantos/]
-* **Email:** [rodsondossantos@hotmail.com]
+<p align="left">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rodsonsantos/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         width="40px" 
+         alt="LinkedIn Logo"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:rodsondossantos@hotmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" 
+         width="40px" 
+         alt="Email Icon"/>
+  </a>
+
+</p>
+
+---
+
 
 ---
 > "A combinação de dados, lógica e criatividade é a chave para o futuro."
