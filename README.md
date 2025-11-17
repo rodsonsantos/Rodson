@@ -71,8 +71,11 @@ Fique à vontade para acompanhar meus repositórios. Meus projetos refletem o qu
 ### 🎧 Minha Playlist Favorita  
 Porque ninguém é só código 😄  
 
-[![Spotify](https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg)](https://open.spotify.com/playlist/7d44aKU7v8FUvhHfGhYZgY)
+<a href="https://open.spotify.com/playlist/7d44aKU7v8FUvhHfGhYZgY">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="120px" />
+</a>
 
 ---
+
 
 
