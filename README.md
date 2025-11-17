@@ -66,3 +66,13 @@ Estou sempre aberto(a) a novas conexões, projetos e oportunidades de aprendizad
 
 Fique à vontade para acompanhar meus repositórios. Meus projetos refletem o que estou estudando no momento.
 
+---
+
+### 🎧 Minha Playlist Favorita  
+Porque ninguém é só código 😄  
+
+[![Spotify](https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg)](https://open.spotify.com/playlist/7d44aKU7v8FUvhHfGhYZgY)
+
+---
+
+
